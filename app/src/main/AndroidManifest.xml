@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".views.activities.SplashActivity"
+            android:name=".impl.views.SplashActivity"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>
 

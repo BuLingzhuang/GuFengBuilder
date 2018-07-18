@@ -3,6 +3,7 @@
     <style name="AppTheme.NoActionBar" parent="AppTheme">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="elevation">0dp</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 </resources>
